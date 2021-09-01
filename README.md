@@ -1,6 +1,7 @@
 # ProjetoFinan-as
-web site development for education 
-view: https://alexander-brandao.github.io/ProjetoFinan-as/
+Web site development for education 
+<br>
+View: https://alexander-brandao.github.io/ProjetoFinan-as/
 
 ## Desktop:
 <p> 
